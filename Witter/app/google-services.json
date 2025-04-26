@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583811613994",
+    "project_id": "witter-b01ef",
+    "storage_bucket": "witter-b01ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583811613994:android:85d12586eaa97fbc370a53",
+        "android_client_info": {
+          "package_name": "com.example.witter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583811613994-e3dtj149g7u6hgucmse5mugpi6b20gqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.witter",
+            "certificate_hash": "bdfa82d199ce26e3984cda3718745b9990b05537"
+          }
+        },
+        {
+          "client_id": "583811613994-48n4uihu79jp3binnfs0d4pdqjf9vi4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfw_A2ns-b3YPkuwdTgjNExkJUz_IaCSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583811613994-48n4uihu79jp3binnfs0d4pdqjf9vi4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
